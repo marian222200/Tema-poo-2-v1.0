@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1587589668 source:c:\users\user\desktop\tema poo\main.cpp
+	<iostream>
+	"ObArray.h"
+
+1587589835 source:c:\users\user\desktop\tema poo\src\complex.cpp
+	"Complex.h"
+
+1587590230 c:\users\user\desktop\tema poo\include\complex.h
+	"Object.h"
+	<iostream>
+
+1587582624 source:c:\users\user\desktop\tema poo\src\obarray.cpp
+	"ObArray.h"
+
+1587591889 c:\users\user\desktop\tema poo\include\obarray.h
+	<iostream>
+	"Punct.h"
+	"Complex.h"
+
+1587583621 source:c:\users\user\desktop\tema poo\src\punct.cpp
+	"Punct.h"
+
+1587590230 c:\users\user\desktop\tema poo\include\punct.h
+	"Object.h"
+	<iostream>
+
+1587584023 source:c:\users\user\desktop\tema poo\src\object.cpp
+	"Object.h"
+
+1587589911 c:\users\user\desktop\tema poo\include\object.h
+	<iostream>
+	<cstring>
+
